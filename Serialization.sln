@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SnowStep.Serialization", "SnowStep.Serialization\SnowStep.Serialization.csproj", "{B363E1FC-D506-4D12-875A-4E2BE8FE2FE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{AD1535D4-4D38-4DE9-A7B0-A5003C3537B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SnowStep.Math", "SnowStep.Math\SnowStep.Math.csproj", "{C436A3A8-E546-4E02-8BCE-9D62392A8F93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowStep.IO", "SnowStep.IO\SnowStep.IO.csproj", "{219A7095-6923-48D0-89EA-67EE8B5FB7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B363E1FC-D506-4D12-875A-4E2BE8FE2FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B363E1FC-D506-4D12-875A-4E2BE8FE2FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B363E1FC-D506-4D12-875A-4E2BE8FE2FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B363E1FC-D506-4D12-875A-4E2BE8FE2FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD1535D4-4D38-4DE9-A7B0-A5003C3537B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1535D4-4D38-4DE9-A7B0-A5003C3537B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1535D4-4D38-4DE9-A7B0-A5003C3537B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1535D4-4D38-4DE9-A7B0-A5003C3537B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C436A3A8-E546-4E02-8BCE-9D62392A8F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C436A3A8-E546-4E02-8BCE-9D62392A8F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C436A3A8-E546-4E02-8BCE-9D62392A8F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C436A3A8-E546-4E02-8BCE-9D62392A8F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219A7095-6923-48D0-89EA-67EE8B5FB7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219A7095-6923-48D0-89EA-67EE8B5FB7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219A7095-6923-48D0-89EA-67EE8B5FB7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219A7095-6923-48D0-89EA-67EE8B5FB7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F820F80-747A-44C0-9A05-B6EDEEFD268A}
+	EndGlobalSection
+EndGlobal
